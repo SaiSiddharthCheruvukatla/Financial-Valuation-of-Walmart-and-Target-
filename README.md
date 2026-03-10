@@ -134,6 +134,100 @@ Interpreting SEC filings
 
 Comparing financial performance between companies
 
-⭐ Summary
+📊 Final Analysis & Observations
 
-This project demonstrates how real financial data from SEC filings can be used to evaluate company performance and estimate intrinsic value using multiple financial models.
+After analyzing the financial data of Walmart and Target using three valuation approaches — Free Cash Flow (FCF) Valuation, Dividend Growth Model, and Market Multiple Approach — several key insights emerge regarding their financial strength, growth potential, and market valuation.
+
+📈 Revenue Performance
+
+One of the most noticeable differences between the two companies is their scale of operations.
+
+🏬 Walmart Revenue: approximately $611 billion
+
+🎯 Target Revenue: approximately $107 billion
+
+🔎 Observation
+
+Walmart’s revenue is about 5.7 times larger than Target’s.
+
+This highlights Walmart’s massive global presence and operational scale.
+
+However, scale alone does not determine profitability or efficiency.
+
+💰 Profitability Comparison
+
+Looking at Net Income provides a clearer view of profitability.
+
+🏬 Walmart Net Income: about $11.7 billion
+
+🎯 Target Net Income: about $4.1 billion
+
+🔎 Observation
+
+Walmart generates almost 3 times more profit than Target.
+
+Despite being smaller, Target still maintains strong profitability in the retail sector.
+
+💵 Cash Flow Strength
+
+Free Cash Flow measures how much cash a company generates after capital expenditures.
+
+🏬 Walmart Free Cash Flow: approximately $12–13 billion
+
+🎯 Target Free Cash Flow: approximately $4–5 billion
+
+🔎 Observation
+
+Walmart generates more than double the free cash flow of Target.
+
+Strong cash flow allows Walmart to invest in technology, logistics, and expansion.
+
+📊 Dividend Comparison
+
+Both companies are known for returning value to shareholders through dividends.
+
+🪙 Walmart Dividend Yield: around 1.3% – 1.5%
+
+🪙 Target Dividend Yield: around 2.5% – 3%
+
+🔎 Observation
+
+Target provides higher dividend yield, making it attractive for income-focused investors.
+
+Walmart offers more stability but slightly lower dividend returns.
+
+📉 Market Valuation Insights
+
+Using the Market Multiple Approach, both companies show different market characteristics.
+
+📊 Walmart typically trades at a higher valuation multiple, reflecting its global dominance and consistent performance.
+
+📊 Target trades at a slightly lower multiple, reflecting its smaller scale and sensitivity to consumer spending trends.
+
+🔎 Observation
+
+Investors often value Walmart as a stable defensive stock.
+
+Target is seen as a growth-oriented retail company with strong brand loyalty.
+
+🔎 Key Observations
+
+🏆 Walmart dominates in revenue scale and cash flow generation.
+
+📈 Target maintains strong profitability relative to its size.
+
+💰 Walmart generates significantly higher free cash flow, supporting long-term investments.
+
+🪙 Target offers higher dividend yield, appealing to income investors.
+
+⚖️ Both companies demonstrate financial stability and strong market presence in the retail industry.
+
+🌟 Final Conclusion
+
+The valuation analysis shows that both Walmart and Target are financially strong companies, but they differ in strategic positioning.
+
+🏬 Walmart’s strength lies in its massive scale, global reach, and strong cash flow generation.
+
+🎯 Target’s strength lies in brand differentiation, profitability efficiency, and higher dividend returns.
+
+By applying multiple valuation techniques and analyzing real financial data from filings submitted to the U.S. Securities and Exchange Commission, the project demonstrates how financial analysts evaluate company performance and determine intrinsic value using real-world financial statements.
